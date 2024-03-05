@@ -18,3 +18,5 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+## Dashboard
+Untuk dapat melihat dashboard yang telah dibuat dapat dilihat [disini]([link ini])
