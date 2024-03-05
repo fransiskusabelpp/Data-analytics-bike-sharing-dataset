@@ -19,4 +19,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 ## Dashboard
-Untuk dapat melihat dashboard yang telah dibuat dapat dilihat [disini]([link ini])
+Untuk dapat melihat dashboard yang telah dibuat dapat dilihat [disini](https://bike-sharing-dashboard-fransiskusabel.streamlit.app/)https://bike-sharing-dashboard-fransiskusabel.streamlit.app/)
