@@ -27,7 +27,7 @@ def create_working_day_df(df):
     working_day_df = df.groupby(by='workingday').total_rental_bikes.sum().reset_index()
     return working_day_df
 
-bike_df = pd.read_csv("bike_df.csv")
+bike_df = pd.read_csv("dashboard/bike_df.csv")
 datetime_columns = ['date']
 bike_df.sort_values(by='date', inplace=True)
 bike_df.reset_index(inplace=True)
